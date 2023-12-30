@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,javascript" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
 # DadJokes
 
-This is a JavaScript study project focused on displaying funny dad jokes.
+This is a JavaScript study project focused on displaying funny dad jokes. It uses vanilla Javascript and stuff like `fetch` to get the data from an API, `async`, `await`, events, dom manipulation, `json` and randomness from the API.
 
 ## Overview
 
-The goal of this project is to create a simple application that retrieves and displays jokes about dads. It utilizes the DadJokes API to fetch random jokes or jokes based on categories, allowing users to enjoy light-hearted moments.
+The goal of this project is to create a simple application that retrieves and displays jokes about dads. It utilizes the DadJokes API at https://icanhazdadjoke.com/ to fetch random jokes or jokes based on categories, allowing users to enjoy light-hearted moments.
 
 ## Features
 
@@ -23,6 +23,8 @@ The goal of this project is to create a simple application that retrieves and di
 - JavaScript
 - HTML
 - CSS
+- API
+- HTTP GET
 
 ## How to Use
 
@@ -53,9 +55,9 @@ Twitter: https://twitter.com/SkateDeveloper
 
 ---
 
-**Note:** This project is for educational and JavaScript study purposes only.
+**Note:** This project is for educational and JavaScript study purposes only but anyone can use the code thwe way it feel better. Do whatever ou want!
 
 
-<!-- <p align="center">
-  <img align="center" src="1.png" alt="Website">  
-</p> -->
+<p align="center">
+  <img align="center" src="1.gif" alt="Website">  
+</p>
